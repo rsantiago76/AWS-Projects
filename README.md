@@ -16,10 +16,12 @@ https://medium.com/@richardsantiago_38987/iam-policy-simulator-fdf0b24d5864
 https://medium.com/@richardsantiago_38987/deploying-a-control-tower-in-existing-organization-e976786721ec
 
 5.) IAM Password Policies, Groups & Users, and creating IAM Policies for resources (BLOG)
+
 https://medium.com/@richardsantiago_38987/iam-password-policies-groups-users-and-creating-iam-policies-for-resources-eabd3d5ba311
 
-6.) Installing An Apache Web Server On A CentOS 8 Server
-https://medium.com/@GeorgeBaidooJr/installing-an-apache-web-server-on-a-centos-8-server-f425c7f9202c 
+6.) Creating AWS Organizations, OUs, and Service control policies (BLOG)
+
+https://medium.com/@richardsantiago_38987/creating-aws-organizations-ous-and-service-control-policies-aeaf7b779b4b
 
 7.) GitHub: Fork, Clone, and Push
 https://medium.com/@GeorgeBaidooJr/github-fork-clone-push-73d1f367bc33 
