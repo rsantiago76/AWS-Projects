@@ -19,15 +19,16 @@ https://medium.com/@richardsantiago_38987/deploying-a-control-tower-in-existing-
 
 https://medium.com/@richardsantiago_38987/iam-password-policies-groups-users-and-creating-iam-policies-for-resources-eabd3d5ba311
 
-6.) Creating AWS Organizations, OUs, and Service control policies (BLOG)
+6.) Creating AWS Organizations, OUs, and Service Control Policies (BLOG)
 
 https://medium.com/@richardsantiago_38987/creating-aws-organizations-ous-and-service-control-policies-aeaf7b779b4b
 
-7.) GitHub: Fork, Clone, and Push
-https://medium.com/@GeorgeBaidooJr/github-fork-clone-push-73d1f367bc33 
+7.) Creating an Internet Gateway, VPC Route Tables, and Internet Access (BLOG)
 
-8.) Create an AWS EC2 Instance & Host an Apache Web Server On It With a Custom Page
-https://medium.com/@GeorgeBaidooJr/create-an-aws-ec2-instance-host-a-apache-web-server-on-it-1d81d61d9efb
+https://medium.com/@richardsantiago_38987/creating-an-internet-gateway-vpc-route-tables-and-internet-access-f9b8a2394c55?postPublishedType=initial
+
+8.) Configuring Security Groups for our VPC (BLOG)
+https://medium.com/@richardsantiago_38987/98ecfa67fc19?postPublishedType=initial
 
 9.) Installing An NGINX Web Server On An AWS EC2 Linux-Based Instance
 https://medium.com/@GeorgeBaidooJr/installing-an-nginx-web-server-on-an-aws-ec2-linux-based-instance-13cd843fbfcc 
