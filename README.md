@@ -11,7 +11,8 @@ https://medium.com/@richardsantiago_38987/adding-subnets-to-your-vpc-79114b35958
 3.) IAM Policy Simulator (BLOG)
 https://medium.com/@richardsantiago_38987/iam-policy-simulator-fdf0b24d5864
 
-4.) Deploying a Control Tower in Existing Organization
+4.) Deploying a Control Tower in Existing Organization (BLOG)
+
 https://medium.com/@richardsantiago_38987/deploying-a-control-tower-in-existing-organization-e976786721ec
 
 5.) Create and Query a NoSQL Table with Amazon DynamoDB
