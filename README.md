@@ -3,16 +3,16 @@ This is my ongoing repo containing my cloud projects.
 
 
 1.) Creating a Custom VPC (BLOG)
-https://medium.com/@GoergeBaidooJr/creating-a-iam-user-creating-a-user-group-and-assigning-a-permission-to-a-user-57a5d73a2289 ](https://medium.com/@richardsantiago_38987/creating-a-custom-vpc-4bb4b3d6396e
+https://medium.com/@richardsantiago_38987/creating-a-custom-vpc-4bb4b3d6396e
 
 2.) Adding Subnets to your VPC (BLOG)
-https://medium.com/@GeorgeBaidooJr/how-to-create-a-aws-ec2-instance-a86d3197df1e ](https://medium.com/@richardsantiago_38987/adding-subnets-to-your-vpc-79114b35958b
+https://medium.com/@richardsantiago_38987/adding-subnets-to-your-vpc-79114b35958b
 
 3.) IAM Policy Simulator (BLOG)
-https://medium.com/@GeorgeBaidooJr/aws-budgets-how-to-set-it-up-and-the-importance-of-it-dab294cfd7d 
+https://medium.com/@richardsantiago_38987/iam-policy-simulator-fdf0b24d5864
 
-4.) Run a Serverless “Hello World” with AWS Lambda
-https://medium.com/@GeorgeBaidooJr/run-a-serverless-hello-world-with-aws-lambda-2e8b4c35033 
+4.) Deploying a Control Tower in Existing Organization
+https://medium.com/@richardsantiago_38987/deploying-a-control-tower-in-existing-organization-e976786721ec
 
 5.) Create and Query a NoSQL Table with Amazon DynamoDB
 https://medium.com/@GeorgeBaidooJr/create-and-query-a-nosql-table-with-amazon-dynamodb-e587dfc9d66d
