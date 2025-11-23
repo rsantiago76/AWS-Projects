@@ -33,5 +33,9 @@ https://medium.com/@richardsantiago_38987/98ecfa67fc19?postPublishedType=initial
 9.) Benefits and configuration of Amazon S3 Replication to enable cross account replication (BLOG)
 https://medium.com/@richardsantiago_38987/benefits-and-configuration-of-amazon-s3-replication-to-enable-cross-account-replication-7b343f75ad6e?postPublishedType=repub
 
+10.) Configuring Amazon S3 Static Website Hosting (BLOG)
+https://medium.com/@richardsantiago_38987/9d84544d06c4?postPublishedType=initial
+
+11.) 
 
 
