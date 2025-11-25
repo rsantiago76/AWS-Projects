@@ -28,6 +28,7 @@ https://medium.com/@richardsantiago_38987/creating-aws-organizations-ous-and-ser
 https://medium.com/@richardsantiago_38987/creating-an-internet-gateway-vpc-route-tables-and-internet-access-f9b8a2394c55?postPublishedType=initial
 
 8.) Configuring Security Groups for our VPC (BLOG)
+
 https://medium.com/@richardsantiago_38987/98ecfa67fc19?postPublishedType=initial
 
 9.) Benefits and configuration of Amazon S3 Replication to enable cross account replication (BLOG)
