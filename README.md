@@ -37,6 +37,7 @@ https://medium.com/@richardsantiago_38987/benefits-and-configuration-of-amazon-s
 https://medium.com/@richardsantiago_38987/9d84544d06c4?postPublishedType=initial
 
 11.) Configuring Amazon S3 Event Notifications (BLOG)
+
 https://medium.com/@richardsantiago_38987/configuring-amazon-s3-event-notifications-2f40da611a72?postPublishedType=initial
 
 
