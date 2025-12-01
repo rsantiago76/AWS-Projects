@@ -43,4 +43,6 @@ https://medium.com/@richardsantiago_38987/9d84544d06c4?postPublishedType=initial
 
 https://medium.com/@richardsantiago_38987/configuring-amazon-s3-event-notifications-2f40da611a72?postPublishedType=initial
 
+12.) DevOps in the cloud with TerraForm, Ansible, and Jenkins
 
+https://medium.com/@richardsantiago_38987/devops-in-the-cloud-with-terraform-ansible-and-jenkins-b62783a141d4?postPublishedType=initial
