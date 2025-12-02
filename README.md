@@ -46,3 +46,7 @@ https://medium.com/@richardsantiago_38987/configuring-amazon-s3-event-notificati
 12.) DevOps in the cloud with TerraForm, Ansible, and Jenkins
 
 https://medium.com/@richardsantiago_38987/devops-in-the-cloud-with-terraform-ansible-and-jenkins-b62783a141d4?postPublishedType=initial
+
+13.) Configuring Amazon S3 Server Access Logs (BLOG)
+
+https://medium.com/@richardsantiago_38987/configuring-amazon-s3-server-access-logs-c35da4b764f8?postPublishedType=initial
