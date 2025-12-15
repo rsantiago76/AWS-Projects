@@ -50,3 +50,7 @@ https://medium.com/@richardsantiago_38987/devops-in-the-cloud-with-terraform-ans
 13.) Configuring Amazon S3 Server Access Logs (BLOG)
 
 https://medium.com/@richardsantiago_38987/configuring-amazon-s3-server-access-logs-c35da4b764f8?postPublishedType=initial
+
+14.) Launching an EC2 Instance using AMI and Scripts
+
+https://medium.com/@richardsantiago_38987/creating-an-ec2-ami-a64cfdf99934?postPublishedType=repub
