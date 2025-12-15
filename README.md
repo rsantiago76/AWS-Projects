@@ -57,3 +57,8 @@ https://medium.com/@richardsantiago_38987/creating-an-ec2-ami-a64cfdf99934?postP
 
 15.) Deploying an EC2 Instance with CloudFormation
 
+https://santiagoricardo.substack.com/p/deploying-an-ec2-instance-with-cloudformation
+
+16.) Deploying a VPC using CloudFormation
+https://santiagoricardo.substack.com/p/deploying-a-vpc-using-cloudformation
+
