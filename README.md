@@ -54,3 +54,6 @@ https://medium.com/@richardsantiago_38987/configuring-amazon-s3-server-access-lo
 14.) Launching an EC2 Instance using AMI and Scripts
 
 https://medium.com/@richardsantiago_38987/creating-an-ec2-ami-a64cfdf99934?postPublishedType=repub
+
+15.) Deploying an EC2 Instance with CloudFormation
+
