@@ -62,3 +62,7 @@ https://santiagoricardo.substack.com/p/deploying-an-ec2-instance-with-cloudforma
 16.) Deploying a VPC using CloudFormation
 https://santiagoricardo.substack.com/p/deploying-a-vpc-using-cloudformation
 
+17.)AWS CloudFormation Cross Stack References - Building Multiple Stacks with Scaling groups and EC2 Instances
+
+https://santiagoricardo.substack.com/p/aws-cloudformation-cross-stack-references
+
